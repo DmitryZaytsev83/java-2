@@ -12,6 +12,10 @@
 .idea/**/usage.statistics.xml
 .idea/**/dictionaries
 .idea/**/shelf
+.idea
+pom.xml
+homeworks.iml
+java-2.iml
 
 # Generated files
 .idea/**/contentModel.xml
